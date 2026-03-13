@@ -85,3 +85,11 @@ The dashboard includes:
 - Advertising vs sales analysis
 
 Users can interact with dropdown filters to explore data across different years and report types.
+## Project Structure
+Automobile-sales-recession-analysis
+│
+├── analysis_notebook.ipynb
+├── dashboard_app.py
+├── requirements.txt
+├── Dashboard.jpeg
+└── README.md
